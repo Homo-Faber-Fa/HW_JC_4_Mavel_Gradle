@@ -1,4 +1,4 @@
-//package ru.netilogy;
+
 import java.util.UUID;
 
 public class Db {

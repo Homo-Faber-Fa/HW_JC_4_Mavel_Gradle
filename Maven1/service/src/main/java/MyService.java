@@ -1,5 +1,5 @@
 import java.util.UUID;
-//package ru.netilogy;
+
 public class MyService {
 
     private DbSetting dbSetting = new DbSetting("name", "password");

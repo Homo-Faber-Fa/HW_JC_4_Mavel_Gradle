@@ -1,4 +1,4 @@
-//package ru.netilogy;
+
 public class DbSetting {
 
     private String name;
